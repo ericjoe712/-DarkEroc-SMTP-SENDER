@@ -20,3 +20,4 @@ A premium Python-based bulk email sender with a user-friendly GUI, designed for 
 💸 This is a paid tool.
 📬 DM me on Telegram to purchase: @DarkEroc
 💰 Payment accepted in Bitcoin (BTC) only.
+![Screenshot 2025-06-07 224243](https://github.com/user-attachments/assets/5083b310-0487-456c-b40e-95cbdd9ba9a2)
